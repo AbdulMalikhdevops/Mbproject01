@@ -3,7 +3,7 @@ pipeline
    agent any
    stages
    {
-      stage("SimpleState1)
+      stage("SimpleState1")
        {
          steps
        {
